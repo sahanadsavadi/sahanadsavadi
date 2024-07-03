@@ -19,6 +19,10 @@
 
 ---
 
+
+  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+
+
 [![](https://visitcount.itsvg.in/api?id=sahanadsavadi&icon=2&color=8)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
