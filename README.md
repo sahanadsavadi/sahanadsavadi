@@ -18,6 +18,10 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+
+<img src="https://raw.githubusercontent.com/sahanadsavadi/sahanadsavadi/output/snake.svg" alt="Snake animation" />
+
+
 [![](https://visitcount.itsvg.in/api?id=sahanadsavadi&icon=2&color=8)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
