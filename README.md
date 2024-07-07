@@ -12,7 +12,6 @@
 # 📊 GitHub Stats:
 
 
-[platane.github.io/snk](https://platane.github.io/snk)
 
 ![](https://github-readme-stats.vercel.app/api?username=sahanadsavadi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sahanadsavadi&theme=dark&hide_border=false)<br/>
